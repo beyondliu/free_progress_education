@@ -267,7 +267,7 @@ label span{color:#FF0000; background-color:inherit;}
 .row2{color:#FFFFFF; background-color:#232323;}
 .row3{color:#292929; background-color:#FFFFFF;}
 .row4, .row4 a{color:#292929; background-color:#F3F3F3;}
-.row5{color:#888888; background-color:#232323; border-color:#8ABA56;}
+.row5{color:#888888; background-color:#EEEEEE; border-color:#8ABA56;}
 .row6, .row6 a{color:#888888; background-color:#111111;}
 
 
@@ -300,7 +300,8 @@ label span{color:#FF0000; background-color:inherit;}
 
 /* Footer */
 #footer .title{border-color:#111111;}
-#footer input{background-color:#111111;}
+/*#footer input{background-color:#111111;}*/
+#footer input{background-color:#DDDDDD;}
 #footer button{color:#FFFFFF; background-color:#8ABA56; text-shadow:0 -1px 1px rgba(0,0,0,.5);}
 
 #footer .faico a{color:inherit;}
@@ -427,6 +428,30 @@ table a, #comments a{background-color:inherit;}
 }
 
 
-#email_image{
-	margin-left: -24px;
+/*#email_image:hover{
+	cursor:pointer;
+	padding-left: 0px;
+}*/
+
+div#main_content{
+	background-color: #000000;
+	padding-left: 20%;
+	padding-right: 20%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 15px;
+}
+
+.article_title{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	text-align: center;
+	font-size: 20px;
+	font-weight: 800;
+}
+/*TODO:no effect*/
+img#learn_proc{
+	text-align:center;
+	margin:auto;
+	width: 50%;
 }

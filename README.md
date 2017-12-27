@@ -1,2 +1,4 @@
 # free_progress_education
-Website pages for Free Progress Education site
+
+
+This project is for the site of [Free Progress University](http://www.freeprogresseducation.org/) that is using a new educational framework called [Free Progress Education](https://www.youtube.com/channel/UCSbM1KXqXkEvPGaCP2CYyEQ).
