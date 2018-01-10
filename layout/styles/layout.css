@@ -434,12 +434,20 @@ table a, #comments a{background-color:inherit;}
 }*/
 
 div#main_content{
-	background-color: #000000;
+	background-color: #999999;
 	padding-left: 20%;
 	padding-right: 20%;
-	padding-top: 20px;
-	padding-bottom: 20px;
+	/*padding-top: 20px;
+	padding-bottom: 20px;*/
 	font-size: 15px;
+}
+div#content_body{
+	background-color: #000000;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 5px;
+	padding-top: 10px;
+
 }
 
 .article_title{
